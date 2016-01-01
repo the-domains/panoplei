@@ -1,9 +1,20 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6505376
 color:
   saturation: 1
-  lightness: 0.3207885
   brandStrength: 1
+  lightness: 0.5913978
   brandColors:
     - '#283A41'
     - '#FCFCFB'
@@ -11,4 +22,5 @@ color:
     - '#429A88'
     - '#88E0D0'
   rhythmicContrast: 1
+layout_spectrum: 1
 name: panoplei
