@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.6505376
+color:
+  saturation: 1
+  lightness: 0.3207885
+  brandStrength: 1
+  brandColors:
+    - '#283A41'
+    - '#FCFCFB'
+    - '#A36E65'
+    - '#429A88'
+    - '#88E0D0'
+  rhythmicContrast: 1
+name: panoplei
