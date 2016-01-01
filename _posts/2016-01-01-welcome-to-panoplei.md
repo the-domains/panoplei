@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'A brief introduction to panoplei and the artist, J. Travis Duncan'
-datePublished: '2016-01-01T06:24:25.967Z'
-dateModified: '2016-01-01T06:20:29.424Z'
+datePublished: '2016-01-01T06:36:56.522Z'
+dateModified: '2016-01-01T06:36:48.737Z'
 title: Welcome to panoplei
 author: []
 sourcePath: _posts/2016-01-01-welcome-to-panoplei.md
@@ -18,11 +19,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: welcome-to-panoplei/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e43be6c-f489-4e6c-a411-6f62fa833879.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccfa0944-2710-41ba-81c1-5e039f88880e.png)
 
 Welcome to 2016 and welcome to panoplei!
 
