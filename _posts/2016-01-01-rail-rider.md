@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T06:29:43.658Z'
-dateModified: '2016-01-01T06:27:47.184Z'
+datePublished: '2016-01-01T06:35:01.139Z'
+dateModified: '2016-01-01T06:34:51.661Z'
 title: Rail Rider
 author: []
+sourcePath: _posts/2016-01-01-rail-rider.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-01-rail-rider.md
-published: true
 _type: Blurb
 
 ---
