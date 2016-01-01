@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T06:35:01.139Z'
-dateModified: '2016-01-01T06:34:51.661Z'
+datePublished: '2016-01-01T06:37:30.876Z'
+dateModified: '2016-01-01T06:37:23.564Z'
 title: Rail Rider
 author: []
 sourcePath: _posts/2016-01-01-rail-rider.md
@@ -23,4 +23,4 @@ _type: Blurb
 
 ---
 "Rail Rider" (2015) - J. Travis Duncan
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76946115-e49d-4ac7-87c4-cf501d50a353.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f480ea4ff509e733dda99783f4ea9069bf5c1d5.jpg)
