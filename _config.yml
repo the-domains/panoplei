@@ -1,41 +1,41 @@
-title: panoplei
-purpose: []
+typography_spectrum: 0.8888889
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.2204301
+title: panoplei
+purpose: []
 color:
   saturation: 0.8082438
   brandStrength: 0.5
-  lightness: 1
+  rhythmicContrast: 0.4354839
   brandColors:
     - '#283A41'
     - '#FCFCFB'
     - '#A36E65'
     - '#429A88'
     - '#88E0D0'
-  rhythmicContrast: 0.4354839
+  lightness: 1
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: panoplei
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.8888889
-layout_spectrum: 0.2204301
