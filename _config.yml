@@ -1,4 +1,4 @@
-typography_spectrum: 0.8888889
+name: panoplei
 opengraph:
   image: null
   type: null
@@ -9,12 +9,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 1
 title: panoplei
 purpose: []
@@ -34,8 +34,8 @@ cta:
   version: null
   domain: null
 favicon: null
+typography_spectrum: 0.8888889
 analytics:
   twitter: null
   google: null
   facebook: null
-name: panoplei
